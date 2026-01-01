@@ -35,10 +35,21 @@
 ---
 
 
-### 📫 Connect with me:
+<h3 align="left">📫 Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/%D9%85%D8%AD%D9%85%D9%88%D8%AF-%D9%86%D9%88%D8%A7%D8%B1-007173304/?locale=en_US" target="blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" />
+  </a>
+  &nbsp;
+  <a href="mailto:mahmoud.magdy.nawar2006@gmail.com" target="blank">
+    <img src="https://cdn.simpleicons.org/gmail/white" alt="Gmail" height="30" width="30" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/ma7moud._.nawar/" target="blank">
+    <img src="https://cdn.simpleicons.org/instagram/white" alt="Instagram" height="30" width="30" />
+  </a>
+</p>
 
-[<img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/%D9%85%D8%AD%D9%85%D9%88%D8%AF-%D9%86%D9%88%D8%A7%D8%B1-007173304/?locale=en_US)
-&nbsp;
-[<img align="left" alt="Email" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:mahmoud.magdy.nawar2006@gmail.com)
 
-<br />
+
+
